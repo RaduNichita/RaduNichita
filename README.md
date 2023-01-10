@@ -7,8 +7,8 @@
 ## :sassy_man:  About me
 - :school: I am a `Computer Science` student at `Faculty of Automatic Control & Computer Science` at `University POLITEHNICA of Bucharest`
 - :trophy: `ACPC SEERC participation` : 2021 & 2022
-- :trophy: `Google Academic Scholarship Winner` - 2022
-- :thinking: I’m currently open for: `internships`, this is [my resume]().
+- :trophy: `Google Academic Scholarship Winner` :  2022
+- :thinking: I’m currently open for: `internships`, this is [my resume](https://drive.google.com/file/d/19MROCzFVXdQBahPq8PggSm40PxJQltZ8/view?usp=share_link)
 - :nerd_face: Always `learning new things` and exploring `new technologies`
 
 <br>
