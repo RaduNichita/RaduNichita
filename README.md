@@ -14,11 +14,11 @@
 <br>
 
 ## 🔥 Stats
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RaduNichita" alt="RaduNichita" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rnichita" alt="rnichita" /></p>
 
 <p>
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RaduNichita&show_icons=true&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaduNichita&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rnichita&show_icons=true&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnichita&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 </p>
 <br>
 <br>
@@ -26,7 +26,6 @@
 
 ## Skills
 
-LANGUAGES AND TOOLS
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
